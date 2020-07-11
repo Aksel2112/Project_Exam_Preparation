@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topics_array">
+        <item>Сложение</item>
+        <item>Вычитание</item>
+        <item>Умножение</item>
+        <item>Деление</item>
+    </string-array>
+    <string-array name="tests_array">
+        <item>Пройти тест по теме Сложение</item>
+        <item>Пройти тест по теме Вычитание</item>
+        <item>Пройти тест по теме Умножение</item>
+        <item>Пройти тест по теме Деление</item>
+    </string-array>
+    <string-array name="exams_array">
+        <item>Сдать экзамен по теме Сложение</item>
+        <item>Сдать экзамен по теме Вычитание</item>
+        <item>Сдать экзамен по теме Умножение</item>
+        <item>Сдать экзамен по теме Деление</item>
+    </string-array>
+</resources>
